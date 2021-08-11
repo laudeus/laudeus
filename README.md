@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laudeus
 - 👀 I’m interested in php, ionic, cordova, swift, expo, yii, Linux administration
-- 🌱 I’m currently learning how to properly use github
-- 💞️ I’m looking to collaborate on creating mobile apps
+- 🌱 You can find me over at IRC with the handle "MeLk0r"
+- 💞️ I’m looking to collaborate with anyone who would like to explore more about Information technology
 - 📫 How to reach me : laudeus@mailfence.com | laudeus@laudeus.com
 
 <!---
