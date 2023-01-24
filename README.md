@@ -1,7 +1,7 @@
 ![Snake animation](https://github.com/laudeus/laudeus/blob/output/github-contribution-grid-snake.svg)
 
 - 👋 Hi, I’m @laudeus
-- 👀 I’m interested in fluter, php, ionic, cordova, swift, expo, yii, Linux administration
+- 👀 I’m interested in flutter, php, ionic, cordova, swift, expo, yii, Linux administration
 - 🌱 You can find me over at IRC with the handle "MeLk0r"
 - 💞️ I’m looking to collaborate with anyone who would like to explore more about cool stuff in Information technology
 - 📫 How to reach me : laudeus@mailfence.com | harold@laudeus.com
