@@ -32,6 +32,56 @@ Technical architect, systems administrator, and web developer with over two deca
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
+### 🎯 Core Competencies
+* **Server & Cloud Operations**: Linux VPS administration, cPanel/WHM, AWS infrastructure, performance tuning, and backup disaster recovery.
+* **Domain Trust & Technical Deliverability**: DNS architecture, MX routing, and email authentication standards (SPF, DKIM, DMARC, BIMI).
+* **Application & Interface Engineering**: Cross-platform mobile development (Flutter), backend scripting (PHP, Bash), and responsive web applications.
+
+
+—-----
+
+### 🔭 Current Focus
+- 🏢 **Building**: Fractional cloud infrastructure and deliverability auditing at **AIONFINITY**
+- 📱 **Developing**: Cross-platform mobile prototypes with Flutter & Expo
+- 💬 **Ask me about**: Linux server hardening, DNS routing, and cPanel/WHM administration
+- ⚡ **Fun fact**: Over two decades managing hardware, telecommunications, and server systems
+
+
+-----
+
+
+**Infrastructure & Databases**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
+----
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudeus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+
+
+----
+### 📌 Featured Repositories & Work
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Ayaten.ca** | Interactive web application and templates | JavaScript / Web | [View Code](https://github.com/laudeus/Ayaten.ca) |
+| **Infrastructure Scripts** | Automated server hardening and setup utilities | Bash / Linux | *(Coming soon)* |
+
+
+
+
+
+
 
 ### 📊 GitHub Activity
 <p align="left">
