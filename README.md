@@ -82,11 +82,10 @@ Technical architect, systems administrator, and web developer with over two deca
 
 
 
+### 📊 GitHub Overview
+[![Followers](https://img.shields.io/github/followers/laudeus?label=Followers&style=flat-square&color=blue)](https://github.com/laudeus?tab=followers)
+[![Public Repositories](https://img.shields.io/badge/Public%20Repos-2-orange?style=flat-square)](https://github.com/laudeus?tab=repositories)
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=laudeus&show_icons=true&theme=radical" alt="Harold's GitHub Stats" />
-</p>
 
 ---
 
